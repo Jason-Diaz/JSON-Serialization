@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Lab-Serialization\Lab-Serialization\bin\Debug\Lab-Serialization.exe.config
+C:\Users\user\source\repos\Lab-Serialization\Lab-Serialization\bin\Debug\Lab-Serialization.exe
+C:\Users\user\source\repos\Lab-Serialization\Lab-Serialization\bin\Debug\Lab-Serialization.pdb
+C:\Users\user\source\repos\Lab-Serialization\Lab-Serialization\obj\Debug\Lab-Serialization.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Lab-Serialization\Lab-Serialization\obj\Debug\Lab-Serialization.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lab-Serialization\Lab-Serialization\obj\Debug\Lab-Serialization.exe
+C:\Users\user\source\repos\Lab-Serialization\Lab-Serialization\obj\Debug\Lab-Serialization.pdb
+C:\Users\jason\Downloads\C# entice class\Lab-Serialization\Lab-Serialization\Lab-Serialization\bin\Debug\Lab-Serialization.exe.config
+C:\Users\jason\Downloads\C# entice class\Lab-Serialization\Lab-Serialization\Lab-Serialization\bin\Debug\Lab-Serialization.exe
+C:\Users\jason\Downloads\C# entice class\Lab-Serialization\Lab-Serialization\Lab-Serialization\bin\Debug\Lab-Serialization.pdb
+C:\Users\jason\Downloads\C# entice class\Lab-Serialization\Lab-Serialization\Lab-Serialization\obj\Debug\Lab-Serialization.csprojAssemblyReference.cache
+C:\Users\jason\Downloads\C# entice class\Lab-Serialization\Lab-Serialization\Lab-Serialization\obj\Debug\Lab-Serialization.csproj.CoreCompileInputs.cache
+C:\Users\jason\Downloads\C# entice class\Lab-Serialization\Lab-Serialization\Lab-Serialization\obj\Debug\Lab-Serialization.exe
+C:\Users\jason\Downloads\C# entice class\Lab-Serialization\Lab-Serialization\Lab-Serialization\obj\Debug\Lab-Serialization.pdb
